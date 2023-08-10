@@ -1,0 +1,73 @@
+Neighborhood,Safety_Score,Area,Median_sale_price,avg_price,median_price,count,latitude,longitude,payback_period
+Albany Park,58.0,Irving Park/Albany Park,515000.0,138.0,119.0,64,41.96661275926675,-87.71271360962224,4328.0
+Archer Heights,68.0,Bridgeport/Brighton Park,296500.0,78.0,79.5,6,41.80560580104695,-87.72704999999999,3730.0
+Armour Square,32.0,Bridgeport/Brighton Park,296500.0,194.0,115.5,72,41.84959888119569,-87.63321,2567.0
+Ashburn,63.0,Beverly/Morgan Park,250000.0,165.0,150.0,19,41.73536,-87.7033,1667.0
+Auburn Gresham,46.0,Auburn Gresham/Chatham,153500.0,168.0,119.0,13,41.74631,-87.65483,1290.0
+Austin,39.0,Austin/Belmont Cragin,290000.0,159.0,125.5,182,41.88267,-87.78317000000001,2311.0
+Avalon Park,47.0,Auburn Gresham/Chatham,153500.0,65.0,65.0,1,41.73818,-87.57839,2362.0
+Avondale,69.0,Logan Square/Avondale,639000.0,250.0,143.5,142,41.93587,-87.71625019938669,4453.0
+Belmont Cragin,63.0,Austin/Belmont Cragin,290000.0,164.0,124.0,29,41.93488,-87.75921,2339.0
+Beverly,100.0,Beverly/Morgan Park,250000.0,111.0,75.0,13,41.71291,-87.66974,3333.0
+Bridgeport,73.0,Bridgeport/Brighton Park,296500.0,108.0,77.0,171,41.838128241317634,-87.64615,3851.0
+Brighton Park,47.0,Bridgeport/Brighton Park,296500.0,96.0,56.5,30,41.81939,-87.693215,5248.0
+Burnside,51.0,Auburn Gresham/Chatham,153500.0,200.0,200.0,1,41.72573,-87.59403,768.0
+Calumet Heights,59.0,South Chicago/West Pullman,138500.0,57.0,25.0,30,41.729470000000006,-87.577755,5540.0
+Chatham,58.0,Auburn Gresham/Chatham,153500.0,231.0,129.0,13,41.7470924,-87.6138747,1190.0
+Chicago Lawn,53.0,Gage Park/West Lawn,275000.0,70.0,72.0,4,41.777335,-87.69330500000001,3819.0
+Clearing,76.0,Gage Park/West Lawn,275000.0,359.0,399.0,14,41.779615,-87.77381468459643,689.0
+Douglas,51.0,Bronzeville/Hyde Park,320000.0,168.0,135.0,74,41.833565,-87.61883499999999,2370.0
+Dunning,81.0,Portage Park/Jefferson Park,355000.0,133.0,102.0,32,41.9413025,-87.79642000000001,3480.0
+East Garfield Park,37.0,Humboldt Park/Garfield Park,211500.0,112.0,75.5,120,41.87794,-87.702915,2801.0
+East Side,73.0,South Chicago/West Pullman,138500.0,89.0,66.5,12,41.707405,-87.53736,2083.0
+Edgewater,73.0,Uptown/Rogers Park,668500.0,159.0,125.0,140,41.98785,-87.66367,5348.0
+Edison Park,92.0,Park Ridge/Des Plaines,382500.0,173.0,69.0,8,42.018175,-87.82668,5543.0
+Englewood,45.0,Englewood/Greater Grand Crossing,130000.0,82.0,75.0,25,41.78866,-87.63432,1733.0
+Forest Glen,100.0,Irving Park/Albany Park,515000.0,234.0,171.0,19,42.01031,-87.75034,3012.0
+Fuller Park,56.0,Bridgeport/Brighton Park,296500.0,126.0,133.0,3,41.81539,-87.63297,2229.0
+Gage Park,47.0,Gage Park/West Lawn,275000.0,106.0,106.0,1,41.78752,-87.70535,2594.0
+Garfield Ridge,80.0,Gage Park/West Lawn,275000.0,233.0,189.0,27,41.79716,-87.78507,1455.0
+Grand Boulevard,51.0,Bronzeville/Hyde Park,320000.0,165.0,136.0,115,41.81541,-87.61538,2353.0
+Greater Grand Crossing,41.0,Englewood/Greater Grand Crossing,130000.0,151.0,120.0,43,41.7663,-87.618,1083.0
+Hegewisch,76.0,South Chicago/West Pullman,138500.0,90.0,94.0,14,41.649395,-87.53006500000001,1473.0
+Hermosa,67.0,Logan Square/Avondale,639000.0,150.0,100.0,23,41.92047,-87.73593,6390.0
+Humboldt Park,45.0,Humboldt Park/Garfield Park,211500.0,155.0,129.0,84,41.90548612333248,-87.71253,1640.0
+Hyde Park,61.0,Bronzeville/Hyde Park,320000.0,137.0,122.0,103,41.79842758178711,-87.59197,2623.0
+Irving Park,75.0,Irving Park/Albany Park,515000.0,145.0,118.0,161,41.95468,-87.72003,4364.0
+Jefferson Park,88.0,Portage Park/Jefferson Park,355000.0,122.0,99.0,44,41.974295,-87.77041905,3586.0
+Kenwood,48.0,Bronzeville/Hyde Park,320000.0,183.0,125.0,49,41.8071,-87.60135,2560.0
+Lake View,74.0,Lake View/Lincoln Park,1288500.0,214.0,165.0,589,41.94416,-87.6542,7809.0
+Lincoln Park,90.0,Lake View/Lincoln Park,1288500.0,270.0,203.0,280,41.923255,-87.647645,6347.0
+Lincoln Square,79.0,Lincoln Square/North Center,674000.0,148.0,127.0,109,41.96969,-87.68693,5307.0
+Logan Square,65.0,Logan Square/Avondale,639000.0,221.0,144.0,394,41.92149,-87.6998555,4438.0
+Lower West Side,63.0,West Town/Near West Side,818250.0,142.0,104.5,192,41.855535,-87.669125,7830.0
+Mckinley Park,73.0,Bridgeport/Brighton Park,296500.0,124.0,51.0,43,41.82983,-87.66888,5814.0
+Montclare,78.0,Austin/Belmont Cragin,290000.0,100.0,79.0,9,41.93099019719414,-87.79554,3671.0
+Morgan Park,77.0,Beverly/Morgan Park,250000.0,126.0,140.0,13,41.69145,-87.67883,1786.0
+Mount Greenwood,98.0,Beverly/Morgan Park,250000.0,125.0,94.0,14,41.702465000000004,-87.72214500000001,2660.0
+Near West Side,61.0,West Town/Near West Side,818250.0,224.0,164.0,455,41.87839,-87.65527,4989.0
+New City,48.0,Bridgeport/Brighton Park,296500.0,59.0,39.0,30,41.800805,-87.64844,7603.0
+North Center,85.0,Lincoln Square/North Center,674000.0,206.0,177.0,116,41.94446,-87.680015,3808.0
+North Lawndale,33.0,Humboldt Park/Garfield Park,211500.0,177.0,119.0,41,41.85569291345744,-87.71461579999999,1777.0
+North Park,86.0,Irving Park/Albany Park,515000.0,164.0,95.0,22,41.98520380266692,-87.71635,5421.0
+Norwood Park,100.0,Park Ridge/Des Plaines,382500.0,147.0,96.0,42,41.98295,-87.80616387398223,3984.0
+Oakland,68.0,Bronzeville/Hyde Park,320000.0,224.0,167.0,10,41.82146640690914,-87.60266118624033,1916.0
+Ohare,100.0,Elmwood Park/Franklin Park,305000.0,151.0,120.5,54,41.9723,-87.87340788679421,2531.0
+Portage Park,81.0,Portage Park/Jefferson Park,355000.0,162.0,115.0,69,41.954472,-87.75594748384832,3087.0
+Pullman,77.0,South Chicago/West Pullman,138500.0,150.0,134.5,12,41.68899715547825,-87.60718499999999,1030.0
+Riverdale,47.0,South Chicago/West Pullman,138500.0,158.0,138.0,3,41.6358,-87.59815,1004.0
+Rogers Park,61.0,Uptown/Rogers Park,668500.0,163.0,128.0,167,42.01042,-87.66814113744925,5223.0
+Roseland,47.0,Auburn Gresham/Chatham,153500.0,145.0,109.5,8,41.7074565,-87.621916,1402.0
+South Chicago,50.0,South Chicago/West Pullman,138500.0,82.0,25.0,27,41.7427,-87.54976,5540.0
+South Deering,68.0,South Chicago/West Pullman,138500.0,385.0,489.0,8,41.71349265047766,-87.56217250778826,283.0
+South Lawndale,51.0,Humboldt Park/Garfield Park,211500.0,108.0,101.0,42,41.848405,-87.70721267273429,2094.0
+South Shore,50.0,Bronzeville/Hyde Park,320000.0,147.0,85.0,104,41.76209,-87.57676000000001,3765.0
+Uptown,64.0,Uptown/Rogers Park,668500.0,171.0,127.0,200,41.965705,-87.65756367684125,5264.0
+Washington Heights,58.0,Beverly/Morgan Park,250000.0,173.0,141.5,4,41.70873,-87.6492637472561,1767.0
+Washington Park,42.0,Bronzeville/Hyde Park,320000.0,139.0,107.5,44,41.78891,-87.62038,2977.0
+West Elsdon,56.0,Gage Park/West Lawn,275000.0,96.0,99.0,3,41.7888276,-87.73374869999999,2778.0
+West Englewood,46.0,Englewood/Greater Grand Crossing,130000.0,54.0,39.5,8,41.777566,-87.66196,3291.0
+West Garfield Park,23.0,Humboldt Park/Garfield Park,211500.0,84.0,86.0,26,41.87493,-87.724105,2459.0
+West Ridge,70.0,Lincoln Square/North Center,674000.0,132.0,102.0,125,42.01473,-87.69086,6608.0
+West Town,65.0,West Town/Near West Side,818250.0,299.0,176.0,721,41.90008,-87.672044322787,4649.0
+Woodlawn,52.0,Bronzeville/Hyde Park,320000.0,169.0,133.0,121,41.78154135493173,-87.60625,2406.0
