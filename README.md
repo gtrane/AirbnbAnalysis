@@ -13,7 +13,7 @@ If you would like to view our full code and report, please view our final report
 
 ## Data Collection
 <img width="1103" alt="Screen Shot 2022-12-22 at 7 48 57 PM" src="https://user-images.githubusercontent.com/90923213/209254770-6da0252a-048c-4711-947f-f57f76f85bb9.png">
-The collected data is detailed in the excel files 'listings.csv' (the Airbnb information) and 'housing.csv' (the safety and median home value information).
+The collected data is detailed in the excel files 'listings.csv' (the Airbnb information) and 'neighborhoodData.csv' (the safety and median home value information).
 
 ## Map of Airbnb Neighborhoods we are analyzing
 <img width="592" alt="Screen Shot 2022-12-22 at 7 50 58 PM" src="https://user-images.githubusercontent.com/90923213/209254963-c4ab02e6-707c-4e96-ab9f-ab04c023d534.png">
