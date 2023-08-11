@@ -7,7 +7,7 @@ Our analysis of Airbnb data in the Chicago area allowed us to find the best neig
 We used Python for this analysis, specifically we used pandas, plotly, widgets, and matplotlib libraries
 
 ## Final Report
-If you would like to view our full code and report, please view our final report python file attached. 
+If you would like to view our full code and report, please view our final report python file attached, 'Final Report.html' or .ipynb
 
 # Process
 
